@@ -16,12 +16,12 @@ NOTE: If you do not input **Depart at** for a realistic time in the future, the 
 ```
 
 ### Bad Calculation (*AVOID THIS!*)
-![wizard](img/Shortcut Method - INACURRATE.png)
+![wizard](img/ShortcutMethodBAD.png)
 
 
 ### Good Calculation TO destination
 
-![wizard](img/Directions with Time TO.png)
+![wizard](img/DirectionswithTimeTO.png)
 
 ### Good Calculation FROM destination
 
@@ -29,7 +29,7 @@ NOTE: If you do not input **Depart at** for a realistic time in the future, the 
 NOTE: You must **Reverse starting point and Destination** and Enter **EVENING TIME**
 ```
 
-![wizard](img/Directions with Time FROM.png)
+![wizard](img/DirectionsWithTimeFROM.png)
 
 
 
