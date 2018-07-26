@@ -12,7 +12,7 @@ Enter **DESTINATION** location
 Expand **Depart at** dropdown. *this is important folks!*  
 Enter **MORNING TIME**  
 ```
-NOTE: If you do not input **Depart at** for a realistic time in the future, the calculation will NOT BE ACCURATE. 
+NOTE: If you do not input DEPART AT for a realistic time in the future, the calculation will NOT BE ACCURATE. 
 ```
 
 ### Bad Calculation (*AVOID THIS!*)
@@ -26,11 +26,15 @@ NOTE: If you do not input **Depart at** for a realistic time in the future, the 
 ### Good Calculation FROM destination
 
 ```
-NOTE: You must **Reverse starting point and Destination** and Enter **EVENING TIME**
+NOTE: You must Reverse starting point and Destination and Enter EVENING TIME
 ```
 
 ![wizard](img/DirectionsWithTimeFROM.png)
 
+
+```
+NOTICE HOW THE ABOVE METHOD NEARLY DOUBLES THE ESTIMATE OF THE COMMUTE! 
+```
 
 
 
