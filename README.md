@@ -9,7 +9,7 @@ Launch https://www.google.com/maps/dir/Lakewood,+California/Glendale,+CA/@33.998
 
 Enter **STARTING POINT** location  
 Enter **DESTINATION** location  
-Expand **Depart at** dropdown. *this is important folks!*  
+Expand **Depart at** dropdown. *this is important folks! IF YOU DONT DO THIS, SHAME ON YOU!*  
 Enter **MORNING TIME**  
 ```
 NOTE: If you do not input DEPART AT for a realistic time in the future, the calculation will NOT BE ACCURATE. 
