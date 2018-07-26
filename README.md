@@ -15,7 +15,7 @@ Enter **MORNING TIME**
 NOTE: If you do not input DEPART AT for a realistic time in the future, the calculation will NOT BE ACCURATE. 
 ```
 
-### Bad Calculation (*AVOID THIS!*)
+### Bad Calculation (*AVOID THIS! IF YOUR DOING THIS, SHAME ON YOU!*)
 ![wizard](img/ShortcutMethodBAD.png)
 
 
